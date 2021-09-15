@@ -1,5 +1,6 @@
 {
-  "name": "foto-gallery",
+  "name": "photo-gallery",
+  "homepage": "http://matrix-citizen.online/Photo gallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
